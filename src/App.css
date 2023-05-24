@@ -1,0 +1,28 @@
+.App {
+  text-align: center;
+}
+
+.heading {
+  text-align: center;
+  font: bold 100px Courier;
+  margin-top: 80px;
+}
+
+.homeButtons{
+    display: flex;
+    margin-top: 150px;
+    align-items: center;
+    flex-direction: column;
+  }
+
+.button {
+  font: bold 20px Courier;
+  text-decoration: none;
+  background-color: #5586b4;
+  color: #333333;
+  padding: 20px;
+  margin-top: 30px;
+  border-radius: 10%;
+  border: 1px solid #CCCCCC;
+  align-items: center
+}
